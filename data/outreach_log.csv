@@ -1,0 +1,301 @@
+entry_id,client_id,date_contacted,medium,status
+bd673458-8f2d-4b17-be7d-5e884dcd5534,CLI016,2025-03-01,LinkedIn,closed-won
+ca8d5d5a-06de-4ca8-b97a-284f76a4c79b,CLI006,2025-02-20,call,in discussion
+4cd7e6f7-433e-4d2c-a76e-1d6700a0586e,CLI003,2025-01-22,email,lead
+a2f5a68b-d590-4435-a3fb-6d0bf4be28b4,CLI041,2025-02-03,LinkedIn,in discussion
+aa794de7-a760-4977-9fca-0f1678f8755f,CLI043,2025-01-20,LinkedIn,closed-won
+2deb57f9-6aca-4954-89a5-fd0de4871ab3,CLI021,2025-02-08,call,closed-won
+a510af65-b016-4db8-a823-99437dec4605,CLI013,2025-01-13,email,closed-won
+c3c49506-1e8e-46ed-8748-03793ea7f419,CLI018,2025-01-21,LinkedIn,closed-won
+f87ae6de-fe8c-4aab-be38-8a1946f7b20a,CLI024,2025-02-26,call,closed-lost
+5c9c4570-bedd-42a7-9950-f11a1114e0da,CLI027,2025-04-03,email,closed-lost
+6fa22f92-90c9-4f00-bb01-1fdd94c0b9e0,CLI004,2025-03-31,email,closed-lost
+af97fbd2-a0c4-4942-8206-7d80de4beb12,CLI022,2025-02-05,LinkedIn,closed-won
+d17ad9bd-b1ba-4bea-b969-057979ddcdd4,CLI024,2025-03-22,LinkedIn,closed-lost
+bba31668-8334-4524-9f8a-2e3c1e9d095b,CLI040,2025-02-13,LinkedIn,in discussion
+42710779-d864-465a-847d-d58393447b2f,CLI045,2025-04-08,LinkedIn,closed-won
+25693e13-0efa-4993-94e7-4f2629b05b37,CLI010,2025-02-19,call,lead
+b17aff6d-e0d9-4670-b606-fa3451d69f11,CLI002,2025-02-05,call,closed-won
+0d8a16f3-29ce-4bfa-9b7d-9d2d22aff503,CLI040,2025-04-06,LinkedIn,in discussion
+a2e11798-6b65-450b-9c75-352c45cdb96b,CLI006,2025-04-04,email,closed-lost
+0c78947b-5b21-49f0-b485-2088e97fb025,CLI048,2025-02-03,LinkedIn,closed-won
+a391ffdb-8794-4c7e-8aaa-7f994a34041e,CLI018,2025-03-09,email,closed-lost
+319dd940-838c-4137-93aa-e9c8efb278fd,CLI017,2025-03-30,email,closed-won
+c3c2aee6-2ee9-4ed9-a0c6-9223c4359252,CLI038,2025-03-23,email,in discussion
+2ac96b60-c0ac-430a-9948-7f821831b802,CLI045,2025-04-08,call,closed-won
+50f32ab5-df58-4eff-9296-5cf38b30bb4c,CLI023,2025-02-03,email,closed-lost
+ccc4c0a9-af5a-41cc-9851-95acd3aa9b27,CLI046,2025-02-28,email,closed-lost
+b2adffa6-af79-4d4a-857e-55cb4d131338,CLI030,2025-02-08,call,in discussion
+88cfc53d-1888-49ce-9cce-495db0377c52,CLI021,2025-02-20,email,closed-won
+24caabcb-d2c4-4286-9a04-61c9947defcf,CLI010,2025-04-05,email,lead
+480afe9f-84a6-4693-a30f-1e69034d42fd,CLI043,2025-01-25,LinkedIn,closed-won
+697878c1-7c22-47a0-875f-f3685f7ddbb1,CLI013,2025-02-08,email,in discussion
+29bc4734-e929-46be-abc0-95f5571ec230,CLI012,2025-03-21,email,lead
+80ddb386-2790-492f-b7c6-bc5d1a380e8e,CLI009,2025-02-25,email,in discussion
+cb8c1d76-303c-4503-94e2-0134389ae4fd,CLI004,2025-03-24,email,closed-won
+b08d1676-9d09-4404-8f04-0721e5a5829e,CLI039,2025-01-23,email,lead
+d89806fd-8691-4efe-b3d6-b9f2d4d7b0ca,CLI024,2025-03-03,call,in discussion
+b3c7a1a8-8d15-4aef-b669-7d0a88376bbc,CLI034,2025-04-01,email,closed-lost
+6ad73453-1d2c-4c89-8d75-e6dec19d5186,CLI039,2025-04-08,email,lead
+1dd73f1f-138e-48cc-aa81-04ad75e2c2fa,CLI041,2025-03-13,call,lead
+0472f9f6-ec64-44e0-a198-6e3cd19fcf31,CLI005,2025-03-11,call,in discussion
+b0e8b2fa-4fc3-4759-9924-48ee7ac1b4f9,CLI015,2025-03-27,email,closed-lost
+7122d7a0-d129-42d3-a396-6b835cd14b22,CLI050,2025-02-20,email,lead
+85eb43c8-98ff-405c-bcd2-280ee3c51ba8,CLI004,2025-01-14,email,in discussion
+2c15c4ad-5790-4515-b859-396dc37a9ab0,CLI039,2025-01-27,LinkedIn,lead
+be94f1cb-075c-48eb-8dff-c9aab5bbabce,CLI008,2025-01-23,LinkedIn,lead
+20f36e92-38ec-41aa-9e5c-5da8d087edcb,CLI049,2025-01-14,email,lead
+b023dbc3-2471-4957-b1b9-fd9ddb583dd9,CLI045,2025-01-31,call,closed-lost
+35b823e4-2016-4e6d-8eb3-9f633a00c83e,CLI024,2025-01-26,email,closed-won
+6cc0067f-141f-446e-bb29-ff362155fba8,CLI028,2025-01-12,call,closed-won
+1c99d366-c8b6-4c18-8355-853eb0d9751c,CLI043,2025-02-23,call,closed-lost
+7bf820f6-c652-4c3d-84d0-7f2913e675fd,CLI027,2025-02-03,call,closed-lost
+32440f07-0ae2-43e0-ae66-3c0ac1e0a4a1,CLI001,2025-01-24,email,in discussion
+a8e7ebe3-cb05-4a14-8865-1a6e1b99eb83,CLI034,2025-03-18,email,lead
+7815c7df-0f2c-41b7-97da-64cb83735f49,CLI017,2025-02-23,call,closed-lost
+0b147f1f-40c5-4cf6-a895-60411e71afa9,CLI037,2025-02-20,LinkedIn,in discussion
+02a13629-aae6-41a1-8d38-a8d010f59651,CLI038,2025-01-20,LinkedIn,closed-won
+1fb0ef34-c849-4436-98b4-75b1c12a34f4,CLI026,2025-04-05,LinkedIn,closed-won
+966d2735-3495-4c00-9a0f-09e9eb8b8c11,CLI024,2025-04-09,call,closed-won
+abac7bf8-2f4d-4c9b-b334-cd07e6b36561,CLI039,2025-02-26,email,closed-won
+254338df-173d-4030-877d-868859fe1c45,CLI021,2025-01-12,call,in discussion
+47021755-f11c-40a4-bf06-d520d88a617b,CLI030,2025-02-20,LinkedIn,lead
+5a29fe6b-590b-40c6-946a-95a6f2e401af,CLI047,2025-02-12,email,in discussion
+c7e2a618-8029-43b1-9aea-544a291a4905,CLI048,2025-03-18,call,lead
+8141bb37-3de8-44ac-9cea-b67bba82854a,CLI013,2025-03-04,call,closed-won
+d1d06bcd-195e-4d72-917e-894e91faf1c7,CLI037,2025-02-25,LinkedIn,closed-lost
+8761f9da-0394-49c1-8363-f61f94009191,CLI003,2025-02-22,call,closed-lost
+f6d9fe17-3109-4211-b73f-6e64378d2f8d,CLI032,2025-02-25,email,closed-lost
+c10750bc-e6d3-4572-abf9-58614827c440,CLI035,2025-01-19,LinkedIn,lead
+b9b07ec4-f93c-4859-811b-b34889811f35,CLI019,2025-04-01,LinkedIn,closed-won
+eba46463-36c9-4657-ac9a-799e19437791,CLI014,2025-03-19,email,in discussion
+7986f498-b52f-40c9-99ee-96788112f0ff,CLI048,2025-04-03,LinkedIn,closed-lost
+2f64672f-96e1-4522-b2b8-d6985dd0855c,CLI022,2025-01-23,call,lead
+1b799e6b-f52e-44a6-ac6c-2e1b708df094,CLI017,2025-01-21,call,closed-lost
+fb368cf4-5ad5-4309-95b1-a96a2e4c16e2,CLI004,2025-02-11,LinkedIn,in discussion
+83a5f421-36da-493a-ac91-4882612e73c7,CLI045,2025-01-18,email,closed-won
+c2ebbaa2-1ce3-40ed-a857-07ac3a40fe39,CLI040,2025-01-28,call,in discussion
+77455560-1fa5-4251-9074-ac13fc0f94cd,CLI019,2025-04-03,email,closed-won
+7eedcc65-22cb-4720-850c-ddfd1c3dae19,CLI037,2025-02-05,call,closed-won
+49cc253f-b469-4ec4-9c7a-e8efc3245e35,CLI002,2025-01-26,call,closed-won
+150e3388-0a65-42a5-b8dd-f15d8ea035f0,CLI015,2025-03-31,LinkedIn,closed-lost
+628103f0-1d9f-4f25-be63-f65453ff5f1f,CLI002,2025-01-25,LinkedIn,in discussion
+bc75ed53-99b3-4070-b4fa-65ce489ac27e,CLI011,2025-03-22,email,closed-lost
+d751af9c-f9e6-4ebb-afe2-487f4fdfaf5d,CLI045,2025-02-27,LinkedIn,in discussion
+6843a5c3-8dcd-4e9b-b9d2-d74a71a71782,CLI023,2025-03-29,call,lead
+6d8ee559-daf9-4e99-bc26-7da64a640fc1,CLI010,2025-02-04,call,lead
+e50ea3ec-11d1-47d5-9b55-86423054366b,CLI003,2025-03-04,email,in discussion
+f067ad82-79c5-445a-8d6c-78ddd74f9844,CLI005,2025-04-05,email,in discussion
+0345eeda-2de6-4d5b-9e10-a3a0addb8943,CLI003,2025-03-14,call,in discussion
+ac0e7307-7ddc-4af6-ac95-adb1ffac54fd,CLI038,2025-03-06,LinkedIn,in discussion
+85cd3384-7024-4792-a578-7d0c1aec8b70,CLI013,2025-01-29,LinkedIn,closed-won
+1e850f80-15c2-4297-ad30-53cea8969e70,CLI042,2025-03-06,email,closed-lost
+b1edf3d3-668f-4032-a512-5d2e24b3bc8e,CLI019,2025-01-09,email,closed-won
+bdce7f65-1a0a-4680-ba42-156e972ec23e,CLI040,2025-03-01,call,closed-lost
+2b3171dc-fa54-4893-a476-231aecdfd364,CLI050,2025-03-24,call,closed-lost
+32f75350-f9a7-42dc-9d1c-19061090dc9d,CLI035,2025-03-05,email,closed-lost
+d8125123-984f-4a56-b344-77eb56b09052,CLI024,2025-01-26,call,closed-won
+3b9d5832-1f6d-4768-a77f-7c73fd9bfaf3,CLI024,2025-02-18,email,in discussion
+7fc5ae23-b9a6-4d75-acb9-6a2cd68e51f0,CLI017,2025-04-08,email,closed-won
+c416c07c-b6a7-47b1-83cb-0c28474cfa29,CLI040,2025-01-16,LinkedIn,closed-won
+c19d11c5-45e1-4b77-97f9-71d594f89e6c,CLI010,2025-02-01,email,closed-lost
+f1773294-a4d2-4eae-8d0d-4d73ca1c3218,CLI002,2025-03-24,call,lead
+aaab5830-79cf-404f-9b29-317a6675d5e2,CLI044,2025-02-26,LinkedIn,lead
+fcce5213-6789-4d92-b33c-4c369a690cad,CLI023,2025-03-15,LinkedIn,closed-won
+25ba4f03-4765-4069-82ec-0fc37c0a5867,CLI006,2025-01-18,call,closed-lost
+1f47d902-1ba8-4a91-b462-f144c49b9e62,CLI002,2025-04-05,call,closed-won
+3b172319-7f4d-45b9-bd45-7a09402d35e8,CLI021,2025-02-09,call,closed-won
+079bf5e6-2275-41e2-b141-52c7a0dcec7d,CLI035,2025-01-11,email,in discussion
+d48f5ba3-0d87-4c72-bce0-5a63197f9b8d,CLI049,2025-02-05,LinkedIn,closed-lost
+06d903c0-ad98-4301-bf85-c4e711776f21,CLI029,2025-03-16,email,lead
+9ac60306-61f4-4c2b-add9-3719f8d9bf33,CLI007,2025-03-16,email,lead
+4d8131f5-2719-4fdb-93b3-618bade05648,CLI029,2025-01-20,email,lead
+c29a988f-18a9-4210-9f8c-2c519f3936a5,CLI037,2025-02-16,email,closed-won
+851b5f38-c069-4f1d-a93c-94131396a289,CLI023,2025-02-14,LinkedIn,closed-lost
+774d34f5-caf0-4226-be00-0029c47f9b05,CLI033,2025-03-07,LinkedIn,in discussion
+7f764fce-a97e-4131-8b26-f0a333b1cca4,CLI008,2025-04-09,email,lead
+8add3976-42fc-4edf-813a-3aa57d810c21,CLI012,2025-01-19,call,closed-lost
+8a601b92-dc13-4c04-8f3a-2f8d57f731e3,CLI046,2025-03-31,LinkedIn,lead
+c3933447-f3dc-40bf-8486-0bee8bef4a76,CLI048,2025-02-09,email,in discussion
+e14fea78-6e2f-4d3b-bd9f-45f40816d739,CLI010,2025-01-23,call,closed-lost
+733ac54f-6235-4144-9e7f-92adea3973ff,CLI015,2025-01-11,call,closed-won
+714b5c03-6057-47cf-9a55-f8255086f384,CLI024,2025-01-16,email,closed-won
+2d474c4f-0869-4ffa-8936-0f0275ac0819,CLI026,2025-02-22,LinkedIn,lead
+c7859c05-dc40-4942-a8cf-29368e81b2f0,CLI047,2025-03-30,call,lead
+2a055b69-b4c0-4bdf-a27b-b6c44d945434,CLI042,2025-03-18,LinkedIn,closed-lost
+4ffd5b7a-226d-424f-ae41-1e237dd19b8f,CLI039,2025-03-14,LinkedIn,in discussion
+c3963bf9-7cc9-4887-a39a-c771b739a28a,CLI003,2025-02-24,call,lead
+7d94ed9f-acce-493e-91a0-7ef21c007554,CLI002,2025-02-22,email,closed-lost
+8a159e92-af74-4e63-8dc4-c81fa8fae904,CLI006,2025-03-11,call,in discussion
+8feff87b-79d5-4e9f-b846-0474927c5ea7,CLI021,2025-02-04,call,lead
+0e44c9dc-81b6-4c87-a803-feb5dab6c73d,CLI009,2025-03-07,LinkedIn,lead
+974ebb87-7ea4-43e5-836d-977b6431cbbe,CLI010,2025-03-13,email,closed-lost
+ad2e4db8-9def-423f-a0b7-59a9f88afc64,CLI036,2025-01-09,LinkedIn,lead
+48d0e602-fa4f-4ba8-8437-6d895a4eb9f3,CLI003,2025-02-09,call,closed-won
+97289c5e-0734-4403-8fb9-7b5d520b28f6,CLI041,2025-01-13,email,in discussion
+5dcd0d40-d641-4102-a0d1-968f0b8ce21f,CLI024,2025-03-13,email,in discussion
+957edc3c-bdf7-44c8-8f3e-e4aa594ffd27,CLI022,2025-03-10,email,closed-won
+a00a06e6-e42f-4c28-83e3-c14806e2e861,CLI049,2025-02-21,email,closed-lost
+6d9b1eb1-18eb-4ed7-a16d-41c8575c9669,CLI014,2025-02-09,email,closed-won
+697437ea-5b7c-47e8-bdf0-2450585b4b17,CLI042,2025-04-10,call,closed-won
+3e85c8c4-a947-4663-8e73-752359ecc846,CLI045,2025-03-21,call,in discussion
+4fe5c13b-a5e8-4198-bc10-316d3f63a065,CLI044,2025-03-21,call,closed-lost
+b020321b-e90f-4137-95be-bdd097b027ce,CLI027,2025-04-07,LinkedIn,lead
+1d4dfdb1-4e0e-4e2e-9e72-d97010c49f9e,CLI033,2025-03-27,email,closed-won
+89d5af23-050b-4848-ab76-a718566c93cc,CLI022,2025-03-05,email,closed-won
+a863782e-75fe-4857-8991-946d537c64b0,CLI029,2025-01-21,call,closed-lost
+83c74cbe-916b-4f87-ac27-316bdd05b827,CLI019,2025-01-29,email,closed-won
+05391557-4441-42a5-abd1-f826e6c2cbb7,CLI019,2025-04-02,LinkedIn,closed-lost
+05b149a0-9686-4676-b83e-40abb22a55a6,CLI006,2025-01-13,email,lead
+9202b09c-60b3-4938-9107-1545fc5b14bd,CLI045,2025-03-27,email,closed-lost
+19048ca7-9291-4493-928a-34f363eac0a1,CLI019,2025-03-12,LinkedIn,lead
+b0dc75fb-199d-4089-bd05-121cceee7d65,CLI013,2025-02-05,call,closed-lost
+7f29c9e7-5601-46a5-b4b6-685dacd4180a,CLI026,2025-02-09,call,closed-won
+aad9e93d-c3d0-4de3-8fbb-a84a80b57013,CLI022,2025-03-27,email,lead
+4cad66c5-9d65-4c03-aaa8-14da56ec0e55,CLI021,2025-01-14,LinkedIn,closed-won
+33a67403-6f9d-4d74-b82c-6ad85d037a06,CLI036,2025-03-22,call,lead
+f95f17e6-d8ea-431b-a2ac-78967f383a3e,CLI002,2025-01-15,call,closed-lost
+d9af8224-d723-4ce3-9348-3fb3c982a300,CLI047,2025-03-03,call,closed-lost
+43e1346d-4990-4258-b6cd-f42f892c6b33,CLI044,2025-03-08,email,closed-lost
+92d2408e-ff08-4739-8c1d-2e430c2b03e4,CLI030,2025-02-15,LinkedIn,in discussion
+9fe3f824-39d3-49cf-8dfa-76af66eb43b0,CLI027,2025-01-17,email,in discussion
+b7bba2aa-178a-4c73-b53b-a020be2de8c8,CLI007,2025-02-16,call,lead
+9784713d-1840-4642-9404-7909d81ca1a0,CLI020,2025-02-02,LinkedIn,in discussion
+910171d2-1138-478b-85fb-3e8a563b04fa,CLI050,2025-01-26,email,closed-lost
+6d56cfd5-79ab-4018-87f3-c9a4cd1a810d,CLI031,2025-02-01,call,in discussion
+13a0181b-cbaf-4542-98e9-bbad35b1773c,CLI023,2025-03-24,call,in discussion
+81300e68-4d45-4885-92e0-8e57a6cb1dda,CLI013,2025-04-03,email,closed-won
+a9d84c4f-6ed3-48be-8cc6-d67ecddb3f9e,CLI017,2025-02-16,call,lead
+6a107fb7-3338-4ec9-9037-e6698a3a0129,CLI004,2025-01-17,call,lead
+83ef3ce9-9ffd-41e7-8052-e3a566fd3215,CLI014,2025-01-10,LinkedIn,lead
+8c2d0e27-c370-42e2-abeb-5f497406ca32,CLI020,2025-04-01,call,in discussion
+a0ba6142-04c3-4fed-a182-701b2e3bdb69,CLI013,2025-01-29,email,closed-lost
+2fc10403-dcda-4cc1-8427-4378b40d8aef,CLI003,2025-01-24,LinkedIn,closed-won
+a92a9880-3684-4339-bfcb-cf3193ac009a,CLI026,2025-02-15,email,lead
+f0278488-be01-4802-92eb-a277f64d4de0,CLI026,2025-03-25,call,in discussion
+a34f2452-efe9-48c9-8497-734d77a0aa7f,CLI018,2025-02-17,LinkedIn,closed-lost
+da4f706b-9d4a-478b-8f16-43a088604b56,CLI032,2025-02-05,LinkedIn,closed-won
+ef444cf5-6f08-4155-a826-6484c4e4fe52,CLI014,2025-03-12,LinkedIn,closed-won
+0f546781-a073-4e57-ba03-71f990ed01d3,CLI047,2025-03-23,LinkedIn,lead
+76658707-5d41-4ac5-b35d-ab4685b375aa,CLI003,2025-03-13,email,lead
+bf164454-2685-402c-bd89-25a925d287d0,CLI001,2025-01-23,call,closed-lost
+d8186112-4cde-4ddb-83f9-c78caf704164,CLI026,2025-01-20,call,in discussion
+dc352577-5193-412d-a906-d1186f75a3b2,CLI024,2025-02-06,LinkedIn,closed-lost
+a2491260-107e-428c-a940-53afd488edff,CLI049,2025-02-25,call,lead
+4455d60e-6995-4fd1-9891-4adf341c612a,CLI035,2025-03-27,email,closed-lost
+291c0da1-a563-4d3a-897b-c13bd2deb47d,CLI014,2025-02-19,call,in discussion
+3c73013b-99ea-4bbd-afd5-b90b41a67c90,CLI003,2025-03-21,email,closed-won
+2663ed11-1d12-4ccf-bd0d-3ffd67e6d49a,CLI013,2025-03-28,email,closed-won
+cc0b200d-3ede-438e-8717-9ef331216863,CLI047,2025-04-08,call,closed-won
+7c420494-76d3-4b96-8f7f-963ed3c544a3,CLI050,2025-02-08,email,closed-won
+6c097204-6fa6-481c-bdc5-62858f50b11f,CLI014,2025-04-06,email,lead
+33b5a667-0979-43a0-a7d9-0c1ba59caeed,CLI021,2025-03-16,email,lead
+0775d778-22ed-4e25-85d0-738228cbb7ca,CLI026,2025-03-08,email,in discussion
+471c10ae-cdb4-4dab-8a27-cd6942264ba4,CLI003,2025-01-21,LinkedIn,in discussion
+a4f0708a-2d0d-4e1d-8cfb-137ca89ea4df,CLI040,2025-02-12,call,in discussion
+b8f40e5e-f6ba-4ccc-8acf-bd89da3ed15a,CLI004,2025-03-14,LinkedIn,in discussion
+0e29ed9a-0518-4d4d-8840-789b7c602399,CLI036,2025-01-18,email,closed-lost
+505c1021-157c-4813-a581-620fdc0db266,CLI043,2025-03-30,call,in discussion
+1046e3df-ddfe-4849-8c48-5cfc9a0270da,CLI001,2025-02-13,email,closed-won
+e592ee7c-6831-49c6-b480-ada5e68c1348,CLI040,2025-02-27,call,closed-won
+e2be80e1-a84d-4f25-abf2-b3695d0a06d3,CLI047,2025-01-28,LinkedIn,closed-won
+d6fdd1a5-f173-42f4-a59a-e9f2171e5028,CLI033,2025-02-25,call,closed-lost
+3c6d3173-23fb-401f-97be-7b4fb9676dc6,CLI007,2025-02-21,email,in discussion
+80104995-bc06-486b-922b-4fb21ca79972,CLI011,2025-04-04,call,closed-won
+aa0a2259-859f-42bb-9ee2-6f39eed4db89,CLI027,2025-02-15,call,closed-won
+c66dfe25-f31d-4e25-9496-634fd438231d,CLI014,2025-02-24,LinkedIn,closed-won
+7f176b55-4076-4e21-8677-72d3ee7a6de6,CLI022,2025-02-04,email,closed-won
+998de3d8-3cf2-4ade-971a-8b65e272d7ca,CLI016,2025-03-04,call,lead
+503ba8c3-ce83-4e27-85ef-d6701f4d88ce,CLI046,2025-03-08,LinkedIn,in discussion
+bcbb859a-9596-4725-9513-da02544c14d1,CLI012,2025-02-19,call,in discussion
+be741860-bf95-4403-8e4b-a2bb63d3ce8e,CLI049,2025-01-17,email,closed-lost
+37cf65ca-6c41-4493-af7c-ef263c667012,CLI046,2025-03-23,call,lead
+36cfd2d5-2cd6-48df-9b58-29c924ef65a7,CLI010,2025-02-19,call,closed-lost
+688b4cfb-7081-45fd-8648-bbe8f84ce7a9,CLI024,2025-03-28,call,closed-won
+0e512083-96e8-4922-9ce7-0289411a315b,CLI046,2025-02-13,call,closed-lost
+b31a25b5-5fec-4a6e-8891-7cf57d8823d2,CLI018,2025-03-09,email,closed-won
+8bb5f242-5105-4c35-9ceb-08fef2deb798,CLI022,2025-01-27,LinkedIn,closed-won
+3f10938c-aec7-4267-b990-0a276c7ceeb7,CLI009,2025-02-20,LinkedIn,in discussion
+c8c621be-e122-4e75-8719-8f5cf69bd596,CLI017,2025-03-11,call,in discussion
+79a8226b-5ced-4017-a518-ec09efdd6a87,CLI038,2025-02-19,email,in discussion
+4ee45227-d245-4039-9e24-296eb7363ad9,CLI040,2025-01-18,email,in discussion
+e7bd1db7-f780-4afc-a538-c6a705651e80,CLI013,2025-01-12,email,in discussion
+bd4c938c-d76a-45a8-88e9-45489b16acb8,CLI050,2025-02-27,email,lead
+0dff01ba-f0db-4ecb-8c87-6b1ca987799b,CLI037,2025-02-11,email,in discussion
+abede2b6-c9ee-497c-aade-7b17b0d090bd,CLI006,2025-02-23,email,closed-lost
+627b0edd-8d7f-4371-80c3-7cbc3d5b6535,CLI021,2025-03-15,call,closed-won
+b35b9f78-f55f-4e80-a392-2a4e4f2c386f,CLI036,2025-01-30,LinkedIn,in discussion
+af6c6f61-cfef-42a2-a735-4db25ce4124b,CLI007,2025-03-12,LinkedIn,lead
+3c83861e-ddf0-40a2-88ef-e82b1f3eea66,CLI036,2025-03-16,call,closed-lost
+02038340-6372-4635-b141-4f58db8ec35b,CLI025,2025-03-19,LinkedIn,closed-lost
+ed711fe9-649a-4bf9-b5f3-943ae8e7f030,CLI011,2025-01-24,email,closed-won
+4d07018b-416a-47f6-aafd-3e7bfa5dbd40,CLI044,2025-04-09,email,closed-lost
+c1b4fd44-d29c-492a-afb2-d33c171aa532,CLI014,2025-02-26,LinkedIn,closed-lost
+dc02bc29-35db-4396-8c23-e8443c4722f3,CLI045,2025-03-01,email,closed-lost
+70583380-ea77-41d6-a904-a6d6e3e735ab,CLI029,2025-03-11,email,closed-lost
+cfef7811-e124-43f2-9132-fe68a1a054a9,CLI010,2025-03-12,LinkedIn,lead
+ca10b499-6802-4b3b-a4f9-54fcc44921b6,CLI050,2025-02-28,call,closed-won
+148113b4-ddcf-4003-8627-41ec08ac784f,CLI048,2025-01-17,LinkedIn,in discussion
+7ddf8484-f0c4-4ecb-878a-7900d2bd16ec,CLI005,2025-02-06,LinkedIn,closed-lost
+ed2eebea-69b7-4533-bca8-3a8278997035,CLI008,2025-02-23,LinkedIn,lead
+6c202d89-b7a6-4c32-952d-4865d7567d35,CLI046,2025-02-20,LinkedIn,closed-won
+19b38619-d1fb-45b1-ab25-d7e7e0736c70,CLI005,2025-01-16,call,in discussion
+42ceef41-b2cf-4a8b-a90c-42f8d30bef65,CLI024,2025-04-07,call,closed-won
+6bbe2bd6-5a13-41e7-90fd-7164819f2393,CLI040,2025-03-27,email,lead
+8c37e264-d03c-420a-baae-ebf89a244525,CLI026,2025-02-24,email,lead
+b1f94a09-7408-4646-93a7-1719bcdf8302,CLI006,2025-02-07,LinkedIn,lead
+a43101e4-0d56-4923-8310-d2a2070077c1,CLI016,2025-01-23,email,closed-lost
+7182fcf2-a151-4d02-af09-8f4da43f683a,CLI036,2025-01-21,call,lead
+00c99370-22d6-40a2-a41f-0d38ca803df8,CLI012,2025-03-16,email,in discussion
+4e385d03-a0d8-4651-b338-22d16691c664,CLI011,2025-04-06,email,closed-lost
+1c5f3cba-150d-48eb-9368-3dd65050127e,CLI003,2025-02-07,email,closed-won
+b6ac2048-8430-4e0c-bfe6-04f428670d3b,CLI044,2025-03-31,LinkedIn,in discussion
+a630b287-d4a3-4a51-8481-ea69f83bf029,CLI037,2025-02-02,email,closed-lost
+981170c1-d8d2-460e-a14d-c588c35ea18a,CLI006,2025-02-28,call,lead
+f07db671-caea-4ae5-a90a-7b80af8d888d,CLI019,2025-02-19,call,closed-won
+df9e1425-7a76-48e6-b394-d79651c4243b,CLI018,2025-02-06,call,lead
+2c691f04-42bb-4aae-a22d-b2cfbc343d5d,CLI016,2025-03-05,call,in discussion
+53dc4fae-d3a7-4b83-97d0-2f8faffdd43b,CLI023,2025-01-13,email,in discussion
+159b2b6b-32db-4028-8823-debeccade92e,CLI043,2025-03-03,LinkedIn,closed-lost
+64bc08cf-2e90-4b5c-9e1b-015f6a1c701b,CLI037,2025-01-16,call,in discussion
+d5ad86bc-f1db-4ad8-a098-0b94e05b1892,CLI009,2025-04-08,call,closed-won
+054edd71-3977-4d2f-9205-1da0e2643336,CLI003,2025-01-13,LinkedIn,closed-lost
+8efbd22a-ec51-4744-85e1-5e2ff2b74922,CLI008,2025-02-27,LinkedIn,closed-won
+3a8c8ed5-a06a-468a-9cac-3d21a5a8c8af,CLI038,2025-01-19,call,lead
+76617a3b-f960-4ca3-96c7-2b1ae826fac7,CLI004,2025-02-27,call,closed-won
+da119684-b385-49de-8304-38b532c192f1,CLI012,2025-02-19,LinkedIn,closed-won
+9e35836f-66aa-494c-8cbe-938d2b339734,CLI044,2025-02-18,call,in discussion
+263553ba-4299-4351-99b3-568d6dcc9c60,CLI031,2025-01-18,call,lead
+2b8d2c49-5e30-43e1-b541-a44e16ccb813,CLI025,2025-02-23,email,in discussion
+039d08d0-1e0a-4f12-9136-d4adf27e8ce7,CLI016,2025-03-14,LinkedIn,lead
+c5fae047-6f66-4013-869d-4cb7b7f5155a,CLI042,2025-03-19,email,lead
+d3c724e8-7426-42d7-ada4-13c6eb8466e4,CLI014,2025-03-05,email,closed-won
+3977c7b4-1e56-4346-be80-8d05ac71b531,CLI013,2025-03-28,LinkedIn,in discussion
+f2307c22-30c7-409b-b401-55bdb6ac1c8e,CLI041,2025-02-02,email,closed-won
+4425dea7-c839-44d7-903b-cbfcdca7e284,CLI007,2025-02-12,call,closed-won
+61cf91fb-7e81-4dfa-bf16-e3e949b7e037,CLI012,2025-02-02,email,closed-won
+34e420bf-db38-4306-ae6a-3d5b2154be4a,CLI037,2025-03-06,LinkedIn,lead
+d2f77d5d-fec5-4a47-b72f-5f47999f0691,CLI050,2025-01-16,call,in discussion
+307a1acb-ad5c-4c49-ba09-8a2748708a92,CLI004,2025-03-24,call,in discussion
+cadee3ec-6895-4908-ae2c-b8506b17bd75,CLI002,2025-02-26,call,closed-won
+f9e38905-4a4a-45ea-875d-acd4255c82c7,CLI035,2025-01-10,call,lead
+73733554-9e20-4ac7-bc48-c93643054a31,CLI044,2025-01-20,email,in discussion
+953922c0-5ea0-442c-bf91-c419e846a9df,CLI003,2025-03-21,email,closed-lost
+15f2f85a-754a-4e48-a5b1-3afdaf2c20ac,CLI004,2025-03-14,call,in discussion
+df16eb70-2219-47f7-b808-a00402a458e1,CLI038,2025-02-22,LinkedIn,closed-won
+65c62548-b169-4ded-b972-397752c03f9b,CLI012,2025-01-26,call,closed-lost
+622cc212-b69d-4f48-b653-e588afd58fe7,CLI019,2025-03-26,email,lead
+98e1d54c-bc71-4183-ac5c-cba7b55d2fc1,CLI010,2025-01-26,call,closed-lost
+8e978ce1-1864-4b6a-92b3-c5eb41980029,CLI001,2025-03-31,email,closed-lost
+ee5a4007-5536-4ab6-8d57-40850f0a6450,CLI017,2025-02-16,call,closed-won
+5ab383c9-e881-48c3-b88f-06ed3c1e919b,CLI016,2025-01-13,LinkedIn,in discussion
+abb8fe95-f077-471b-9b3b-5b4cff2a50c0,CLI009,2025-01-17,call,lead
+b5a61d61-9925-4c9b-8d60-2879f79b1079,CLI009,2025-02-18,LinkedIn,closed-lost
+015f566c-0ba6-4a86-8f52-85f7bf8cc6f9,CLI009,2025-04-04,LinkedIn,closed-won
+618521ab-9ea1-4617-8129-aa0c40efa857,CLI012,2025-03-18,call,in discussion
+abd7d3f1-650a-49aa-ba3f-012e4d711f28,CLI041,2025-02-06,LinkedIn,closed-lost
+e468eb64-f7d2-42ee-a1da-5db15ef361c2,CLI015,2025-02-08,LinkedIn,closed-won
+2deb5687-949a-4a46-8a87-2ac28f3f5995,CLI002,2025-03-07,email,closed-won
+7e2ac03a-80f5-4b81-ab7c-5ee342a27950,CLI011,2025-03-20,email,closed-won
+77d468ea-e0bd-4765-96d4-4952ee29e80e,CLI011,2025-02-22,LinkedIn,lead
+b5d34f2f-513b-465c-96f3-2b9321c57a88,CLI008,2025-03-23,call,in discussion

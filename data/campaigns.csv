@@ -1,0 +1,51 @@
+campaign_id,campaign_name,brand_name,start_date,end_date,budget,goal
+CAMP001,Clearly Campaign,Martinez-Norman,2023-01-01,2023-01-07,54422,Conversions
+CAMP002,Not Campaign,Quinn-Wilson,2023-01-08,2023-01-14,88106,Conversions
+CAMP003,General Campaign,Rogers Group,2023-01-15,2023-01-21,66899,Engagement
+CAMP004,Include Campaign,Warren-Baker,2023-01-22,2023-01-28,17392,Engagement
+CAMP005,Peace Campaign,"Burton, Crawford and Dixon",2023-01-29,2023-02-04,49724,Awareness
+CAMP006,Protect Campaign,Porter PLC,2023-02-05,2023-02-11,37299,Awareness
+CAMP007,Source Campaign,Richardson LLC,2023-02-12,2023-02-18,20641,Conversions
+CAMP008,They Campaign,Shannon Ltd,2023-02-19,2023-02-25,84534,Conversions
+CAMP009,Rate Campaign,"Wilson, Yang and Smith",2023-02-26,2023-03-04,11305,Awareness
+CAMP010,Responsibility Campaign,Sanchez Group,2023-03-05,2023-03-11,23782,Awareness
+CAMP011,Question Campaign,Reyes-Hernandez,2023-03-12,2023-03-18,83257,Engagement
+CAMP012,Attorney Campaign,Tran Ltd,2023-03-19,2023-03-25,82963,Awareness
+CAMP013,Force Campaign,"Rios, Walker and Wright",2023-03-26,2023-04-01,25566,Awareness
+CAMP014,Say Campaign,"Flores, Mckenzie and Duncan",2023-04-02,2023-04-08,72766,Conversions
+CAMP015,Leave Campaign,Shaw Inc,2023-04-09,2023-04-15,11511,Awareness
+CAMP016,Show Campaign,Walker PLC,2023-04-16,2023-04-22,31177,Conversions
+CAMP017,Throughout Campaign,Finley Inc,2023-04-23,2023-04-29,9765,Awareness
+CAMP018,Edge Campaign,Cline-Ayala,2023-04-30,2023-05-06,25354,Engagement
+CAMP019,Article Campaign,Murphy-Tran,2023-05-07,2023-05-13,28929,Awareness
+CAMP020,Election Campaign,Wood LLC,2023-05-14,2023-05-20,33820,Awareness
+CAMP021,Before Campaign,"Mueller, Stevenson and Sanchez",2023-05-21,2023-05-27,34523,Awareness
+CAMP022,Window Campaign,Vargas-Snyder,2023-05-28,2023-06-03,76088,Conversions
+CAMP023,Leader Campaign,Oconnor PLC,2023-06-04,2023-06-10,71163,Engagement
+CAMP024,Business Campaign,Hernandez Group,2023-06-11,2023-06-17,82525,Awareness
+CAMP025,Long Campaign,Hall LLC,2023-06-18,2023-06-24,18780,Conversions
+CAMP026,Population Campaign,"Franco, Wiley and Tapia",2023-06-25,2023-07-01,11589,Engagement
+CAMP027,Politics Campaign,Blake Group,2023-07-02,2023-07-08,39812,Conversions
+CAMP028,Around Campaign,"Acosta, Garcia and Moreno",2023-07-09,2023-07-15,98664,Conversions
+CAMP029,For Campaign,Barnes Inc,2023-07-16,2023-07-22,50939,Engagement
+CAMP030,Reflect Campaign,Dawson Inc,2023-07-23,2023-07-29,56493,Awareness
+CAMP031,Site Campaign,Morse PLC,2023-07-30,2023-08-05,98326,Conversions
+CAMP032,Really Campaign,Haynes-Watson,2023-08-06,2023-08-12,45953,Conversions
+CAMP033,Sit Campaign,"Miller, Davis and Anderson",2023-08-13,2023-08-19,70785,Awareness
+CAMP034,Continue Campaign,Jones-Bradley,2023-08-20,2023-08-26,24309,Awareness
+CAMP035,Call Campaign,Bates-Anderson,2023-08-27,2023-09-02,59195,Engagement
+CAMP036,Actually Campaign,Green-Edwards,2023-09-03,2023-09-09,30901,Engagement
+CAMP037,Second Campaign,Haynes-Moss,2023-09-10,2023-09-16,28576,Engagement
+CAMP038,Certain Campaign,Chavez-Hall,2023-09-17,2023-09-23,36508,Awareness
+CAMP039,Science Campaign,Taylor PLC,2023-09-24,2023-09-30,79711,Conversions
+CAMP040,Activity Campaign,Moore and Sons,2023-10-01,2023-10-07,30464,Conversions
+CAMP041,Common Campaign,Owens-Russell,2023-10-08,2023-10-14,65281,Engagement
+CAMP042,Model Campaign,"Howard, Townsend and Hayes",2023-10-15,2023-10-21,21260,Awareness
+CAMP043,Hand Campaign,Baker-Wilson,2023-10-22,2023-10-28,40440,Conversions
+CAMP044,Necessary Campaign,Aguirre LLC,2023-10-29,2023-11-04,61683,Engagement
+CAMP045,Nation Campaign,"Terry, Williams and Huff",2023-11-05,2023-11-11,46430,Conversions
+CAMP046,Stay Campaign,Hernandez-Dawson,2023-11-12,2023-11-18,6987,Conversions
+CAMP047,Test Campaign,Foster-Williams,2023-11-19,2023-11-25,30105,Awareness
+CAMP048,Set Campaign,Green-Ewing,2023-11-26,2023-12-02,83484,Awareness
+CAMP049,Event Campaign,Crane Group,2023-12-03,2023-12-09,18026,Conversions
+CAMP050,Compare Campaign,"Adkins, Wright and Murray",2023-12-10,2023-12-16,73309,Engagement
