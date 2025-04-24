@@ -34,11 +34,12 @@ This Power BI dashboard project analyzes influencer marketing campaign data to u
 📄 README.md — This file
 
 ## 📸 Current Previews  
-![Company Branding](screenshots/Tecron_Branding.png)
-![Home Page](screenshots/Home.png)  
-![Campaign Overview](screenshots/Campaign_Details.png)  
-![Tooltip Card](screenshots/Tooltip_Influencer_Insights.png)  
+## 📸 Current Previews
 
+<img src="screenshots/Tecron_Branding.png" alt="Company Branding" width="40%">
+<img src="screenshots/Home.png" alt="Home Page" width="60%">
+<img src="screenshots/Campaign_Details.png" alt="Campaign Overview" width="60%">
+<img src="screenshots/Tooltip_Influencer_Insights.png" alt="Tooltip Card" width="60%">
 
 ## 🚧 What's Next  
 - Complete Finance persona insights and cost-efficiency views  
