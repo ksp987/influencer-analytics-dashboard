@@ -15,7 +15,7 @@ This Power BI dashboard project analyzes influencer marketing campaign data to u
 - Power BI (DAX, Slicers, Bookmarks, Tooltips)  
 - SQL (Views, Data Modeling, Query Optimization)  
 - Excel (Data Cleaning, VLOOKUP, Macros)  
-- Draw.io / dbdiagram.io (ERD and schema design)  
+- Draw.io (ERD and schema design)  
 - SQLite Browser (for local database testing)
 
 ## ✅ Key Features  
