@@ -1,2 +1,52 @@
-# influencer-analytics-dashboard
-A real-world influencer marketing analytics dashboard using Power BI
+# 📊 Tecron: Influencer Campaign Analytics Dashboard  
+*Driving Smarter Brand Decisions with Data*
+
+This Power BI dashboard project analyzes influencer marketing campaign data to uncover strategic insights across campaign performance, platform effectiveness, and budget efficiency. Built with industry practices in mind, it focuses on delivering insights for marketing, finance, and sales personas.  
+> 🎯 Work in Progress – visuals are functional, SQL-backed modeling and tooltip interactions are underway.
+
+## 🧭 Objectives  
+- Visualize campaign ROI, cost per conversion, and platform-level performance  
+- Identify top-performing influencer campaigns using dynamic Top N filters  
+- Support strategic decisions through region-based conversion trends and ROI analysis  
+- Integrate SQL-based data views to simulate enterprise-level workflows  
+- Deliver insights in a way that aligns with stakeholder needs and business KPIs
+
+## 🧰 Tools Used  
+- Power BI (DAX, Slicers, Bookmarks, Tooltips)  
+- SQL (Views, Data Modeling, Query Optimization)  
+- Excel (Data Cleaning, VLOOKUP, Macros)  
+- Draw.io / dbdiagram.io (ERD and schema design)  
+- SQLite Browser (for local database testing)
+
+## ✅ Key Features  
+- **Home Page**: KPIs (Total Campaigns, Avg ROI, Cost per Conversion), Region-wise conversions, ROI vs Budget  
+- **Campaign Overview**: Campaign-specific insights with influencer-level contribution metrics  
+- **Top N Slicer**: Dynamic campaign filtering by ROI  
+- **Tooltip Card**: Hover-based influencer snapshot  
+- **Tecron Branding**: Custom styling to simulate real company scenario  
+- **SQL Integration**: Database file and custom views stored in `/sql` folder
+
+## 📁 Repository Structure  
+📁 data/ — Raw and cleaned influencer data  
+📁 screenshots/ — Dashboard mockups and visuals  
+📁 sql/ — SQL views, DB schema file, and query logic  
+📁 dashboard/ — Power BI .pbix file  
+📄 README.md — This file
+
+## 📸 Current Previews  
+![Home Page](screenshots/Home.png)  
+![Campaign Overview](screenshots/Campaign Details.png)  
+![Tooltip Card](screenshots/ToolTip_influencer Insights.png)  
+![Company Branding](screenshots/Tecron - Influencer analytics company.png)
+
+## 🚧 What's Next  
+- Complete Finance persona insights and cost-efficiency views  
+- Finalize bookmark navigation and tooltip UX  
+- Document SQL data model (ERD + schema logic)  
+- Publish to Power BI Service and embed view  
+- Upload walkthrough slides as PDF in `/docs` folder
+
+## 💼 Author  
+**Sai Praveen Kallepalli**  
+[LinkedIn](https://www.linkedin.com/in/sai-kallepalli)  
+📧 saipraveen98@outlook.com
