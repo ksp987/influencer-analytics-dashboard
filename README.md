@@ -1,4 +1,4 @@
-# 📊 Tecron: Influencer Campaign Analytics Dashboard  
+# 📊 Tecron: Influencer Campaign Analytics 
 *Driving Smarter Brand Decisions with Data*
 
 This Power BI dashboard project analyzes influencer marketing campaign data to uncover strategic insights across campaign performance, platform effectiveness, and budget efficiency. Built with industry practices in mind, it focuses on delivering insights for marketing, finance, and sales personas.  
