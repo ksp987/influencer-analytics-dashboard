@@ -48,5 +48,5 @@ This Power BI dashboard project analyzes influencer marketing campaign data to u
 
 ## 💼 Author  
 **Sai Praveen Kallepalli**  
-[LinkedIn](https://www.linkedin.com/in/sai-kallepalli)  
+[LinkedIn](https://www.linkedin.com/in/sai-kallepalli/)  
 📧 saipraveen98@outlook.com
