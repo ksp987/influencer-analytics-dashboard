@@ -39,6 +39,18 @@ This Power BI dashboard project analyzes influencer marketing campaign data to u
 <img src="screenshots/Campaign_Details.png" alt="Campaign Overview" width="70%">
 <img src="screenshots/Tooltip_Influencer_Insights.png" alt="Tooltip Card" width="40%">
 
+## ⚠️ Data Challenges Encountered
+During the data merging process, I discovered that 9 influencer IDs from the master profile list had no matching records in the engagement data. This could represent inactive, new, or incorrectly entered influencers.
+
+### ✅ Resolution
+To maintain data completeness, I used a **Left Outer Join** to keep all influencer profiles. Missing values are displayed as blanks or “No data available” in visuals and excluded from aggregated KPIs to avoid skewed insights.
+
+This decision simulates real-world handling of incomplete or messy data — and reinforces data integrity while communicating uncertainty where needed.
+
+## 🔧 Data Modeling Decisions
+
+To enrich regional segmentation, I connected the `region_campaign` table (aggregated region-level campaign stats) with the `influencer_summary` table using `location` as the shared key. This allowed seamless cross-filtering between campaign and influencer metrics based on geography. As a result, users can filter and explore KPIs, charts, and influencer performance by region — enabling more contextual, business-relevant insights.
+
 ## 🚧 What's Next  
 - Complete Finance persona insights and cost-efficiency views  
 - Finalize bookmark navigation and tooltip UX  
